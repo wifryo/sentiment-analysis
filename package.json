@@ -43,6 +43,7 @@
     "@typescript-eslint/utils": "5.36.2"
   },
   "dependencies": {
+    "monkeylearn": "^3.4.0",
     "vader-sentiment": "^1.1.3"
   }
 }
